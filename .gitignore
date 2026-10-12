@@ -1,0 +1,7 @@
+.local-mysql/
+.gocache/
+.gocache-wsl/
+.gomodcache-wsl/
+.bin/
+.logs/
+.env
